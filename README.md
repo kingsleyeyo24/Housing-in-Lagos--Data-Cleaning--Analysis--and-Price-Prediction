@@ -168,4 +168,5 @@ Here I created adjustable parameters (visible at the top right), allowing users 
 ![Image](https://github.com/user-attachments/assets/8250ca68-3c62-41f3-b97a-4b0d2cf1a4ab)
 Tableau didn’t recognize these cities, so I manually mapped their locations using latitude and longitude.
 
+Link to dashboard: (https://public.tableau.com/app/profile/kingsley.eyo/viz/Lagos_housing/Dashboard2)
 
