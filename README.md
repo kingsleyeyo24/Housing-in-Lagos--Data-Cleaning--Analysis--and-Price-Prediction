@@ -149,5 +149,23 @@ A lower MAE means better model performance.
   
 ![Image](https://github.com/user-attachments/assets/69c81204-5be0-487f-965e-a262740d7c18)
 
+### Tableau Vizualization
+- I utilized Tableau to design interactive dashboards, making it easier for non-technical users to explore and understand the data through simple hover interactions.
+  
+![Image](https://github.com/user-attachments/assets/919255e6-d052-4cb0-bffe-2e2faa61f553)
+
+![Image](https://github.com/user-attachments/assets/5796cfa9-cad6-45cf-b130-02c5ad684e04)
+Here I created adjustable parameters (visible at the top right), allowing users to customize their view beyond the top five most or least expensive neighborhoods.
+
+![Image](https://github.com/user-attachments/assets/60c716c8-79b0-4be9-b677-67fd926380e3)
+
+![Image](https://github.com/user-attachments/assets/76c9b86c-8513-41c6-a2f3-4bbfef07c4c8)
+
+![Image](https://github.com/user-attachments/assets/8cb95061-c603-44cd-93e0-ec9bd81ba2d2)
+
+![Image](https://github.com/user-attachments/assets/b7ab75f9-17e5-409b-aded-4551802b4e20)
+
+![Image](https://github.com/user-attachments/assets/8250ca68-3c62-41f3-b97a-4b0d2cf1a4ab)
+Tableau didn’t recognize these cities, so I manually mapped their locations using latitude and longitude.
 
 
